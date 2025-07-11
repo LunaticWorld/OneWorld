@@ -39,4 +39,10 @@ Android 설정 > Google > 광고 > 광고 ID 재설정 메뉴에서 가능합니
 
 본 방침은 Google Play 정책에 따라 수시로 변경될 수 있으며, 변경 시 앱 내 또는 페이지를 통해 고지합니다.
 
+### 7. CC
+
+This app uses vocabulary data from the JLPT Words by Level dataset by robinpourtaud, available on Kaggle.
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Source: https://www.kaggle.com/datasets/robinpourtaud/jlpt-words-by-level
+
 최종 업데이트: 2025년 7월
